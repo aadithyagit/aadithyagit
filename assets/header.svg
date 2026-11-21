@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 170" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#060b16"/>
+      <stop offset="50%" stop-color="#0c1322"/>
+      <stop offset="100%" stop-color="#141c2e"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#818cf8"/>
+      <stop offset="50%" stop-color="#c084fc"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6366f1" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#a855f7" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0.8"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="80%" cy="20%" r="60%">
+      <stop offset="0%" stop-color="#6366f1" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#060b16" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Background Card -->
+  <rect width="900" height="170" rx="16" fill="url(#bg)"/>
+  <rect width="900" height="170" rx="16" fill="url(#glow)"/>
+  <rect x="0.5" y="0.5" width="899" height="169" rx="15.5" fill="none" stroke="#1e293b" stroke-width="1"/>
+
+  <!-- Accent Wave Line at Bottom -->
+  <path d="M 0 160 Q 225 150 450 160 T 900 160 L 900 170 L 0 170 Z" fill="url(#lineGrad)" opacity="0.6"/>
+
+  <!-- Badge Pill -->
+  <g transform="translate(45, 26)">
+    <rect width="320" height="24" rx="12" fill="#1e1b4b" stroke="#4338ca" stroke-width="1"/>
+    <circle cx="12" cy="12" r="4" fill="#10b981"/>
+    <text x="24" y="16" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#a5b4fc" letter-spacing="0.5">
+      AI/ML DEVELOPER &amp; FULL STACK CLOUD ENGINEER
+    </text>
+  </g>
+
+  <!-- Name Header -->
+  <text x="45" y="92" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="36" font-weight="800" fill="#ffffff" letter-spacing="-0.5">
+    Aadithya Sreekaant P
+  </text>
+
+  <!-- Subtitle -->
+  <text x="45" y="126" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#94a3b8">
+    Building Intelligent AI Systems • Autonomous Agents • Scalable Cloud &amp; Distributed Backends
+  </text>
+
+  <!-- Terminal Style Decorative Accents on Right -->
+  <g transform="translate(800, 32)">
+    <circle cx="10" cy="10" r="5" fill="#ef4444" opacity="0.7"/>
+    <circle cx="28" cy="10" r="5" fill="#f59e0b" opacity="0.7"/>
+    <circle cx="46" cy="10" r="5" fill="#10b981" opacity="0.7"/>
+  </g>
+</svg>

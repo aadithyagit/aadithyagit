@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=140&section=header&text=Aadithya%20Sreekaant%20P&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Developer%20%7C%20Full%20Stack%20%26%20Cloud%20Engineer&descFontSize=18&descAlignY=62&descAlign=50" width="100%" />
+  <img src="./assets/header.svg" width="100%" alt="Aadithya Sreekaant P — AI/ML Developer &amp; Full Stack Cloud Engineer" />
 </div>
 
 <h1 align="center">
@@ -31,7 +31,7 @@
 
 ### 👨‍💻 About Me
 
-<img src="https://raw.githubusercontent.com/soumyajit4419/soumyajit4419/master/thoughtworks-gif_dribbble.gif" height="280px" align="right" alt="Coding GIF" />
+<img src="./assets/aadithya-photo.jpg" width="160px" align="right" alt="Aadithya Sreekaant P" />
 
 - 🎓 **Education**: B.Tech in Computer Science & Engineering at **SRM Institute of Science and Technology** (`9.29 / 10.0 CGPA`).
 - 💼 **Professional Experience**:
@@ -43,7 +43,7 @@
   - **1st Prize**: Inter-College Open Innovation Hackathon (AI Organ Donation & Hospital Mediation platform).
   - **1st Prize**: Inter-College Academic Poster Presentation.
   - **Co-Founder & Management Head**: *Synergy AI Club*, SRM University's intra-college AI organization.
-- 🔭 **Current Focus**: Autonomous AI agents with deterministic safety guardrails, incident intelligence platforms, and high-performance backend microservices.
+- 🔭 **Current Focus**: Autonomous AI agents with deterministic safety guardrails, incident intelligence platforms, and high-performance full-stack architectures.
 - 💬 **Ask me about**: Python, PyTorch, YOLOv8, FastAPI, OpenCV, and System Architecture.
 
 ---
@@ -112,7 +112,7 @@
       </p>
       <p>Autonomous AI Payment Recovery Agent that detects failed payments, diagnoses failure causes, and executes bounded recovery actions with deterministic guardrails and audit logging.</p>
       <ul>
-        <li><b>Deterministic Guardrails</b>: Hard-coded retry caps & amount limits</li>
+        <li><b>Deterministic Guardrails</b>: Hard-coded retry caps &amp; amount limits</li>
         <li><b>Full Stack</b>: FastAPI backend + Next.js interactive console</li>
       </ul>
     </td>
@@ -125,7 +125,7 @@
       <p>Enterprise incident intelligence system with natural language problem triage, statistical Z-score anomaly detection, root cause hypothesis testing, and risk scoring.</p>
       <ul>
         <li><b>Two Operational Modes</b>: Quick NLU explanation + telemetry analysis</li>
-        <li><b>138 Tests Passing</b> with terminal CLI analyzer & Docker setup</li>
+        <li><b>138 Tests Passing</b> with terminal CLI analyzer &amp; Docker setup</li>
       </ul>
     </td>
   </tr>
@@ -148,9 +148,3 @@
     </td>
   </tr>
 </table>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=80&section=footer" width="100%" />
-</div>
