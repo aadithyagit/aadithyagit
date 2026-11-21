@@ -44,7 +44,6 @@
   - **1st Prize**: Inter-College Academic Poster Presentation.
   - **Co-Founder & Management Head**: *Synergy AI Club*, SRM University's intra-college AI organization.
 - 🔭 **Current Focus**: Autonomous AI agents with deterministic safety guardrails, incident intelligence platforms, and high-performance full-stack architectures.
-- 💬 **Ask me about**: Python, PyTorch, YOLOv8, FastAPI, OpenCV, and System Architecture.
 
 ---
 
