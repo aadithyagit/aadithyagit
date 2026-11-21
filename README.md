@@ -151,19 +151,6 @@
 
 ---
 
-### 📊 GitHub Activity & Insights
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aadithyagit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadithyagit&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadithyagit&theme=tokyonight&hide_border=true" width="60%" alt="GitHub Streak" />
-</div>
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=80&section=footer" width="100%" />
 </div>
