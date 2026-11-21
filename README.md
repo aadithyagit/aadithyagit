@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=140&section=header&text=Aadithya%20Sreekaant%20P&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Developer%20%7C%20Backend%20Systems%20Engineer&descFontSize=18&descAlignY=62&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=140&section=header&text=Aadithya%20Sreekaant%20P&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Developer%20%7C%20Full%20Stack%20%26%20Cloud%20Engineer&descFontSize=18&descAlignY=62&descAlign=50" width="100%" />
 </div>
 
 <h1 align="center">
@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=818CF8&center=true&vCenter=true&width=550&lines=AI%2FML+Developer+%26+Computer+Vision;Autonomous+AI+Agents+%26+Guardrails;Backend+Engineer+(FastAPI+%7C+Node.js);SRM+University+CSE+(9.29+CGPA)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=818CF8&center=true&vCenter=true&width=550&lines=AI%2FML+Developer+%26+Computer+Vision;Full+Stack+%26+Cloud+Engineer;Autonomous+AI+Agents+%26+Guardrails;SRM+University+CSE+(9.29+CGPA)" alt="Typing SVG" />
   </a>
 </p>
 
